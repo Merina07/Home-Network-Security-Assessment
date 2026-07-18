@@ -105,22 +105,22 @@ Home-Network-Security-Assessment/
 
 ---
 
-## 📷 Project Images
-
-### Oracle VirtualBox Environment
-
-*(Add your VirtualBox screenshot here.)*
-
-### Kali Linux Virtual Machine
-
-*(Add your Kali Linux screenshot here.)*
-
----
 
 ## 📄 Project Report
 
 The complete project documentation is available in the **Report** folder.
 
+## 📷 Project Images
+
+### Oracle VirtualBox Environment
+
+![Oracle VirtualBox](Oracle%20Virtual%20Box.png)
+
+---
+
+### Kali Linux Virtual Machine
+
+![Kali Linux](kali%20linux.png)
 ---
 
 ## 🎓 Skills Demonstrated
